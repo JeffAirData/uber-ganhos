@@ -1,4 +1,4 @@
-# uber-ganhos
+# Uber-Ganhos
 Projeto com apresentação de dashboard via streamlit dos gráficos do Uber Ganhos, planilha que criei para verificar as métricas do BYD Dolphin enquanto sou motorista de aplicativos. README.md first!
 
 À abertura no app do arquivo .xlsx por meio do github ao passo em que lê ambos os arquivos "Consumo_Uber_BYD_Dolphin_Limpo.xlsx" e este próprio código "Dashboard Streamlit Uber.py"
