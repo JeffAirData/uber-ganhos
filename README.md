@@ -7,31 +7,31 @@ Segue-se o resumo, para que, utilizando streamlit, seja possível analisar gráf
 
 # Biblioteca
 
-# 🎯 Configurações da página
+## 🎯 Configurações da página
 
-# 🏷️ Cabeçalho
+## 🏷️ Cabeçalho
 
-# 🔁 Carregar dados diretamente do Google Drive
+## 🔁 Carregar dados diretamente do Google Drive
 
-# 📦 Dataset completo
+## 📦 Dataset completo
 
-# 📆 Seleciona dados do mês atual até o dia de hoje
+## 📆 Seleciona dados do mês atual até o dia de hoje
 
-# 📈 Métricas principais (KPIs)
+## 📈 Métricas principais (KPIs)
 
-# 📊 Gráfico de ganhos diários
+## 📊 Gráfico de ganhos diários
 
-# ⚡ Gráfico de eficiência energética
+## ⚡ Gráfico de eficiência energética
 
-# ⚡ Consumo médio de eletricidade (kWh/100km)
+## ⚡ Consumo médio de eletricidade (kWh/100km)
 
-# ⏱️ Ganhos por hora dirigida
+## ⏱️ Ganhos por hora dirigida
 
-# 🔌 Tempo estimado para carga total
+## 🔌 Tempo estimado para carga total
 
-# 📄 Visualização tabular
+## 📄 Visualização tabular
 
-# 📥 Botão de download .csv
+## 📥 Botão de download .csv
 
 
 Depois de finalizado, vc pode rodar o código no vscode por exemplo, o app vai abri-lo ao passo em que lê ambos os arquivos "Consumo_Uber_BYD_Dolphin_Limpo.xlsx" e o próprio código "Dashboard Streamlit Uber.py"
